@@ -6,7 +6,7 @@ Code examples, and my experiments while reading
 ## TOC
 
 - [x] 1 Primitive and Reference Types
-- [ ] 2 Functions
+- [x] 2 Functions
   - [`call()` Method](src/functions/call_method.js)
   - [`apply()` Method](src/functions/apply_method.js)
   - [`bind()` Method](src/functions/bind_method.js)
