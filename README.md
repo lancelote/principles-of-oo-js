@@ -9,6 +9,7 @@ Code examples, and my experiments while reading
 - [ ] 2 Functions
   - [`call()` Method](src/functions/call_method.js)
   - [`apply()` Method](src/functions/apply_method.js)
+  - [`bind()` Method](src/functions/bind_method.js)
 - [ ] 3 Understanding Objects
 - [ ] 4 Constructors and Prototypes
 - [ ] 5 Inheritance
