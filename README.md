@@ -8,6 +8,7 @@ Code examples, and my experiments while reading
 - [x] 1 Primitive and Reference Types
 - [ ] 2 Functions
   - [`call()` Method](src/functions/call_method.js)
+  - [`apply()` Method](src/functions/apply_method.js)
 - [ ] 3 Understanding Objects
 - [ ] 4 Constructors and Prototypes
 - [ ] 5 Inheritance
