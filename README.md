@@ -11,6 +11,7 @@ Code examples, and my experiments while reading
   - [`apply()` Method](src/functions/apply_method.js)
   - [`bind()` Method](src/functions/bind_method.js)
 - [ ] 3 Understanding Objects
+  - [Accessor Properties](src/objects/accessor_property.js)
 - [ ] 4 Constructors and Prototypes
 - [ ] 5 Inheritance
 - [ ] 6 Object Patterns
