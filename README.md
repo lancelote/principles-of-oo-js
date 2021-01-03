@@ -16,6 +16,7 @@ Code examples, and my experiments while reading
   - [Define Accessor Property on Existing Object](src/objects/define_accessor.js)
   - [Strict Accessor Property](src/objects/strict_accessor.js)
   - [Define Multiple Properties](src/objects/multiple_properties.js)
+  - [Retrieving Property Attributes](src/objects/property_attributes.js)
 - [ ] 4 Constructors and Prototypes
 - [ ] 5 Inheritance
 - [ ] 6 Object Patterns
