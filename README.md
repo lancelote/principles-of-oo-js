@@ -18,6 +18,7 @@ Code examples, and my experiments while reading
   - [Define Multiple Properties](src/objects/multiple_properties.js)
   - [Retrieving Property Attributes](src/objects/property_attributes.js)
   - [`preventExtensions()` Method](src/objects/prevent_extensions.js)
+  - [Sealing Objects](src/objects/sealing.js)
 - [ ] 4 Constructors and Prototypes
 - [ ] 5 Inheritance
 - [ ] 6 Object Patterns
