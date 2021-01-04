@@ -12,11 +12,12 @@ Code examples, and my experiments while reading
   - [`bind()` Method](src/functions/bind_method.js)
 - [ ] 3 Understanding Objects
   - [Accessor Properties](src/objects/accessor_property.js)
-  - [`defineProperty` Method](src/objects/define_property.js)
+  - [`defineProperty()` Method](src/objects/define_property.js)
   - [Define Accessor Property on Existing Object](src/objects/define_accessor.js)
   - [Strict Accessor Property](src/objects/strict_accessor.js)
   - [Define Multiple Properties](src/objects/multiple_properties.js)
   - [Retrieving Property Attributes](src/objects/property_attributes.js)
+  - [`preventExtensions()` Method](src/objects/prevent_extensions.js)
 - [ ] 4 Constructors and Prototypes
 - [ ] 5 Inheritance
 - [ ] 6 Object Patterns
