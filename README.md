@@ -21,5 +21,6 @@ Code examples, and my experiments while reading
   - [Sealing Objects](src/objects/sealing.js)
   - [Freezing Objects](src/objects/freezing.js)
 - [ ] 4 Constructors and Prototypes
+  - [Accessor Property in Constructor](src/prototypes/accessor_in_constructor.js)
 - [ ] 5 Inheritance
 - [ ] 6 Object Patterns
