@@ -10,7 +10,7 @@ Code examples, and my experiments while reading
   - [`call()` Method](src/functions/call_method.js)
   - [`apply()` Method](src/functions/apply_method.js)
   - [`bind()` Method](src/functions/bind_method.js)
-- [ ] 3 Understanding Objects
+- [x] 3 Understanding Objects
   - [Accessor Properties](src/objects/accessor_property.js)
   - [`defineProperty()` Method](src/objects/define_property.js)
   - [Define Accessor Property on Existing Object](src/objects/define_accessor.js)
