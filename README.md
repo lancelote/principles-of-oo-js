@@ -23,5 +23,6 @@ Code examples, and my experiments while reading
 - [ ] 4 Constructors and Prototypes
   - [Accessor Property in Constructor](src/prototypes/accessor_in_constructor.js)
   - [Declare Multiple Prototype Methods](src/prototypes/multiple_methods.js)
+  - [Changing Prototype Methods](src/prototypes/change_prototype_methods.js)
 - [ ] 5 Inheritance
 - [ ] 6 Object Patterns
