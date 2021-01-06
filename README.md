@@ -20,7 +20,7 @@ Code examples, and my experiments while reading
   - [`preventExtensions()` Method](src/objects/prevent_extensions.js)
   - [Sealing Objects](src/objects/sealing.js)
   - [Freezing Objects](src/objects/freezing.js)
-- [ ] 4 Constructors and Prototypes
+- [x] 4 Constructors and Prototypes
   - [Accessor Property in Constructor](src/prototypes/accessor_in_constructor.js)
   - [Declare Multiple Prototype Methods](src/prototypes/multiple_methods.js)
   - [Changing Prototype Methods](src/prototypes/change_prototype_methods.js)
