@@ -22,5 +22,6 @@ Code examples, and my experiments while reading
   - [Freezing Objects](src/objects/freezing.js)
 - [ ] 4 Constructors and Prototypes
   - [Accessor Property in Constructor](src/prototypes/accessor_in_constructor.js)
+  - [Declare Multiple Prototype Methods](src/prototypes/multiple_methods.js)
 - [ ] 5 Inheritance
 - [ ] 6 Object Patterns
