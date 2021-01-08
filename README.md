@@ -25,4 +25,5 @@ Code examples, and my experiments while reading
   - [Declare Multiple Prototype Methods](src/prototypes/multiple_methods.js)
   - [Changing Prototype Methods](src/prototypes/change_prototype_methods.js)
 - [ ] 5 Inheritance
+  - [Redefine `toString()`](src/inheritance/redefine_to_string.js)
 - [ ] 6 Object Patterns
