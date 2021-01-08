@@ -26,4 +26,5 @@ Code examples, and my experiments while reading
   - [Changing Prototype Methods](src/prototypes/change_prototype_methods.js)
 - [ ] 5 Inheritance
   - [Redefine `toString()`](src/inheritance/redefine_to_string.js)
+  - [Use `Object.create()` for Inheritance](src/inheritance/object_create.js)
 - [ ] 6 Object Patterns
