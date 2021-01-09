@@ -27,4 +27,5 @@ Code examples, and my experiments while reading
 - [ ] 5 Inheritance
   - [Redefine `toString()`](src/inheritance/redefine_to_string.js)
   - [Use `Object.create()` for Inheritance](src/inheritance/object_create.js)
+  - [Constructor Inheritance](src/inheritance/constructor_inheritance.js)
 - [ ] 6 Object Patterns
