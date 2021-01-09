@@ -24,7 +24,7 @@ Code examples, and my experiments while reading
   - [Accessor Property in Constructor](src/prototypes/accessor_in_constructor.js)
   - [Declare Multiple Prototype Methods](src/prototypes/multiple_methods.js)
   - [Changing Prototype Methods](src/prototypes/change_prototype_methods.js)
-- [ ] 5 Inheritance
+- [x] 5 Inheritance
   - [Redefine `toString()`](src/inheritance/redefine_to_string.js)
   - [Use `Object.create()` for Inheritance](src/inheritance/object_create.js)
   - [Constructor Inheritance](src/inheritance/constructor_inheritance.js)
