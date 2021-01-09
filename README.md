@@ -30,4 +30,5 @@ Code examples, and my experiments while reading
   - [Constructor Inheritance](src/inheritance/constructor_inheritance.js)
   - [Constructor Inheritance with `Object.create()`](src/inheritance/constructor_object_create.js)
   - [Constructor Stealing](src/inheritance/constructor_stealing.js)
+  - [Accessing Supertype Methods](src/inheritance/supertype_methods.js)
 - [ ] 6 Object Patterns
