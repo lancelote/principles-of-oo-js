@@ -29,4 +29,5 @@ Code examples, and my experiments while reading
   - [Use `Object.create()` for Inheritance](src/inheritance/object_create.js)
   - [Constructor Inheritance](src/inheritance/constructor_inheritance.js)
   - [Constructor Inheritance with `Object.create()`](src/inheritance/constructor_object_create.js)
+  - [Constructor Stealing](src/inheritance/constructor_stealing.js)
 - [ ] 6 Object Patterns
