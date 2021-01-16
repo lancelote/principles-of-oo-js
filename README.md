@@ -32,3 +32,4 @@ Code examples, and my experiments while reading
   - [Constructor Stealing](src/inheritance/constructor_stealing.js)
   - [Accessing Supertype Methods](src/inheritance/supertype_methods.js)
 - [ ] 6 Object Patterns
+  - [Immediately Invoked Function Expression](src/patterns/iife.js)
