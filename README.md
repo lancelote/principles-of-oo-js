@@ -33,3 +33,4 @@ Code examples, and my experiments while reading
   - [Accessing Supertype Methods](src/inheritance/supertype_methods.js)
 - [ ] 6 Object Patterns
   - [Immediately Invoked Function Expression](src/patterns/iife.js)
+  - [Revealing Module Pattern](src/patterns/revealing_module_pattern.js)
