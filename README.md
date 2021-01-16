@@ -35,3 +35,4 @@ Code examples, and my experiments while reading
   - [Immediately Invoked Function Expression](src/patterns/iife.js)
   - [Revealing Module Pattern](src/patterns/revealing_module_pattern.js)
   - [Private Members for Constructors](src/patterns/private_constructor_memebers.js)
+  - [Share Private Data across Instances](src/patterns/share_private_data.js)
