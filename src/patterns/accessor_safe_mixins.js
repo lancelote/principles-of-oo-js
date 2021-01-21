@@ -1,4 +1,5 @@
 const mixin = (receiver, supplier) => {
+    // Use Object.getOwnPropertyNames() to copy non-enumerable properties as well
     Object.keys(supplier).forEach((property) => {
         const descriptor = Object.getOwnPropertyDescriptor(supplier, property);
         Object.defineProperty(receiver, property, descriptor);
