@@ -40,3 +40,4 @@ Code examples, and my experiments while reading
   - [Mixins without Pseudo-classical Inheritance](src/patterns/mixins_without_inheritance.js)
   - [Mixins Accessor Property Forced Conversion](src/patterns/mixin_accessor_conversion.js)
   - [Accessor Safe Mixins](src/patterns/accessor_safe_mixins.js)
+  - [Scope-Safe Constructors](src/patterns/scope_safe_constructors.js)
