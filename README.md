@@ -36,3 +36,6 @@ Code examples, and my experiments while reading
   - [Revealing Module Pattern](src/patterns/revealing_module_pattern.js)
   - [Private Members for Constructors](src/patterns/private_constructor_memebers.js)
   - [Share Private Data across Instances](src/patterns/share_private_data.js)
+  - [Mixins](src/patterns/mixins.js)
+  - [Mixins without Pseudo-classical Inheritance](src/patterns/mixins_without_inheritance.js)
+  - [Mixins Accessor Property Forced Conversion](src/patterns/mixin_accessor_conversion.js)
